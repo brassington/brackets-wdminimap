@@ -23,7 +23,7 @@
 define(function (require, exports, module) {
 	module.exports = {
 		NAME: 'websiteduck.wdminimap',
-		MINIMAP_WIDTH: 90,
+		MINIMAP_WIDTH: 60,
 		defaultPreferences: { 
 			enabled: true, 
 			type: 'codemirror' 
